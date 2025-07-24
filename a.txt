@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wertyu
+=======
+qwertyu
+>>>>>>> d6fa7f09ed31d299828857e7add4f7a0d65efbb0
