@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 cfvbnm
 =======
 hjkl
 >>>>>>> first
+=======
+hjkl
+>>>>>>> 64fd9c7 (commit6)

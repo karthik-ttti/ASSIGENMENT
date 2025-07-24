@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 cvbnm
 =======
 wertyu
 >>>>>>> first
+=======
+wertyu
+>>>>>>> 64fd9c7 (commit6)

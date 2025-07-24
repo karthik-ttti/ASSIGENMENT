@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 fghjk
 =======
 fghjksxvbnm,sx
 >>>>>>> first
+=======
+fghjksxvbnm,sx
+>>>>>>> 64fd9c7 (commit6)
